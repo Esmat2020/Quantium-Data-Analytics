@@ -1,4 +1,7 @@
 # Quantium-Data-Analytics
+# the problem is from Forage website :
+https://www.theforage.com/virtual-internships/NkaC7knWtjSbi6aYv?ref=WKWTFX4zY4MicoWmv
+
 # about quantium 
 Quantium has had a data partnership with a large supermarket brand for the last few years who provide transactional and customer data. You are an analyst within the Quantium analytics team and are responsible for delivering highly valued data analytics and insights to help the business make strategic decisions. 
 
